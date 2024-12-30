@@ -1,4 +1,4 @@
-WealthWise | MERN Stack July 2024 - August 2024
+WealthWise | MERN Stack August 2024 - September 2024 
 
 • Developed a full-stack MERN app for tracking income and expenses, providing users with a streamlined solution for
 budgeting and financial planning.
